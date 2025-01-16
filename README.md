@@ -10,17 +10,25 @@ This repository contains Gede Prasidha Bhawarnawa's thesis titled 'Prediction of
     │   ├── thesis.pdf   
     ├── src                         # Source code for all experimentations                  
     │   ├── Isoform II
-    │   |   ├── ExtraTrees.xlsx
-    │   |   ├── XGBoost.xlsx
+    │   |   ├── ExtraTrees Experimentation.ipynb
+    │   |   ├── XGBoost Experimentation.ipynb
     │   |   ├── ...
     │   ├── Isoform IX
-    │   |   ├── ExtraTrees.xlsx
-    │   |   ├── XGBoost.xlsx
+    │   |   ├── ExtraTrees Experimentation.ipynb
+    │   |   ├── XGBoost Experimentation.ipynb
     │   |   ├── ...
     │   ├── Isoform XII
-    │   |   ├── ExtraTrees.xlsx
-    │   |   ├── XGBoost.xlsx
-    │   |   ├── ...                  
+    │   |   ├── ExtraTrees Experimentation.ipynb
+    │   |   ├── XGBoost Experimentation.ipynb
+    │   |   ├── ...
+    │   ├── Interpretation Experiment
+    │   |   ├── NCART Interpretation Experimentation Isoform II.ipynb
+    │   |   ├── ...
+    │   |   ├── XGBoost Interpretation Experimentation Isoform II.ipynb
+    │   |   ├── ...
+    │   ├── Selectivity Profile Experiment
+    │   |   ├── Selectivity Profile Experimentation Isoform II vs IX.ipynb
+    │   |   ├── Selectivity Profile Experimentation Isoform II vs XII.ipynb
     ├── performance-results         # Performance metrics of base and tuned models                   
     │   ├── ExtraTrees.xlsx        
     │   ├── XGBoost.xlsx           
@@ -46,6 +54,8 @@ This repository contains Gede Prasidha Bhawarnawa's thesis titled 'Prediction of
     │   ├── XII.xlsx                 
     └── misc                        # Other files
     │   ├── Best Models per Dataset Variation.xlsx        
+
+
 ## Authors
 
 - [Gede Prasidha Bhawarnawa](https://www.github.com/lordgedelicious) Email: gede.prasidha@gmail.com
